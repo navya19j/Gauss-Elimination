@@ -16,7 +16,7 @@ equations.
  
 Input file (input1.txt) is given for the above set of equations.
 The program needs to read from the input file and then write 2
-the calculated values of x1 , x2, x3 in a text file (file name –
+the calculated values of x, y,z in a text file (file name –
 output1.txt) with each xi value in a separate line of text file
 
 <b> Gauss Jordon Elimination</b>- 
